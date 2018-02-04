@@ -1,6 +1,7 @@
 //This code use Arduino sketch Plotter Serial to read signal.
 // Tools > Plotter Serial
 
+
 //Pin A0 
 int analogic_pin = 0;
 
