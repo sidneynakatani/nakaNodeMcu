@@ -6,7 +6,7 @@
 int analogic_pin = 0;
 
 
-// Initial Pin
+// Initial Value
 int value_A0 = 0;
 
 void setup() {
