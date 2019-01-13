@@ -3,8 +3,8 @@
 #define dht_dpin 0 // Define Pin 0 (D3)
 
 #include <ESP8266WiFi.h>
-const char * ssid = "nakatani";
-const char * password = "674BC49D32";
+const char * ssid = "sua_rede";
+const char * password = "senha";
 
 WiFiServer server(8080);
 DHT dht(dht_dpin, DHTTYPE); 
